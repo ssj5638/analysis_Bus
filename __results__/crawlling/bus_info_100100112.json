@@ -1,0 +1,28 @@
+[
+    {
+        "itemList": {
+            "busRouteId": "100100112",
+            "busRouteNm": "721",
+            "corpNm": "서부운수  02-372-0221",
+            "edStationNm": "건대입구역",
+            "firstBusTm": "20180616042000",
+            "firstLowTm": "20170313000000",
+            "lastBusTm": "20180616224000",
+            "lastBusYn": null,
+            "lastLowTm": null,
+            "length": "43.3",
+            "routeType": "3",
+            "stStationNm": "북가좌동",
+            "term": "8"
+        },
+        "busRouteId": 0,
+        "busRouteNm": 0,
+        "routeType": 0,
+        "term": 0,
+        "stStationNm": 0,
+        "edStationNm": 0,
+        "firstBusTm": 0,
+        "lastBusTm": 0,
+        "corpNm": 0
+    }
+]
